@@ -3,8 +3,4 @@ Thogek/Thogek is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 Who's this?
-* https://www.linkedin.com/in/thogek/
-* https://x.com/Thogek
-* https://bsky.app/profile/thogek.bsky.social
-* https://substack.com/@thogek
-* https://threads.com/@thogek00
+[Thogek@LinkedIn](https://www.linkedin.com/in/thogek/) | [Thogek@X](https://x.com/Thogek) | [Thogek@BlueSky](https://bsky.app/profile/thogek.bsky.social) | [Thogek@Substack](https://substack.com/@thogek) | [Thogek@Threads](https://threads.com/@thogek00)
